@@ -270,6 +270,7 @@ class Calendar
         }
 
         //return str_replace($search, $replace, $json);
-        return Str::replaceArray($search, $replace, $json);
+        //return Str::replaceArray($search, $replace, $json);
+        return Str::replace($search, $replace, $json);
     }
 }

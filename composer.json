@@ -1,11 +1,10 @@
 {
-    "name": "qlick/laravel-full-calendar",
+    "name": "helidalto/laravel-full-calendar",
     "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
     "authors": [
         {
-            "name": "Qlick by Nermin Elkasovic",
-            "email": "nermin@qlick.ch",
-            "homepage": "https://qlick.ch",
+            "name": "Helidalto",
+            "email": "helidalto@gmail.com",
             "role": "Developer"
         }
     ],
@@ -18,7 +17,7 @@
     "license": "MIT",
     "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
     "support": {
-        "email": "nermin@qlick.ch",
+        "email": "helidalto@gmail.com",
         "issues": "https://github.com/nelkasovic/laravel-full-calendar/issues",
         "wiki": "https://github.com/nelkasovic/laravel-full-calendar/wiki",
         "source": "https://github.com/nelkasovic/laravel-full-calendar",
