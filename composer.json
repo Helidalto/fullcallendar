@@ -10,9 +10,9 @@
     ],
     "require": {
         "php": "^8.0.2",
-        "illuminate/database": "^7.0|^8.0",
-        "illuminate/support": "^7.0|^8.0",
-        "laravel/helpers": "^1.0"
+        "illuminate/database": "^9.0",
+        "illuminate/support": "^9.0",
+        "laravel/helpers": "^1.1"
     },
     "license": "MIT",
     "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
